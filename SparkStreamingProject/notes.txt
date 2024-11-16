@@ -1,0 +1,17 @@
+Spark Streaming
+- designed for real-time data processing
+
+Buffering / Streaming
+
+Buffering
+- data is processed in chunks/buffers
+
+Streaming
+- continuous flow of data
+
+Hadoop can only process historical data
+Spark can process real-time data
+
+Using Spark Streaming we can ingest data in real time from sources like Kafka, Flume, or socket connections then process and analyze it
+
+Project - Stream YouTube Video Comments and Perform Analysis
